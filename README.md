@@ -4,6 +4,7 @@
 [![License: Apache](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+[![Twitter](https://img.shields.io/twitter/follow/ethstatus)](https://x.com/ethstatus)
 [![Discord: Nimbus](https://img.shields.io/badge/discord-nimbus-orange.svg)](https://discord.gg/XRxWahP)
 [![Status: #nimbus-general](https://img.shields.io/badge/status-nimbus--general-orange.svg)](https://join.status.im/nimbus-general)
 [![gitpoap badge](https://public-api.gitpoap.io/v1/repo/status-im/nimbus-eth2/badge)](https://www.gitpoap.io/gh/status-im/nimbus-eth2)
